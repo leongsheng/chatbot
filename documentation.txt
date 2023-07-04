@@ -1,0 +1,42 @@
+npx create-next-app@latest
+
+
+TypeScript (No)
+ESLint (No)
+Tailwind CSS (No)
+`src/` directory (Yes)
+App Router (No)
+import alias (Yes)
+what import alias - @/*
+
+cd filename
+code .
+npm run dev
+
+Basic Frontend Design (src/api/index.js)
+
+-----------------------------------------------
+create .env file (set environment variable for openai apikey)
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+tailwind.config.js
+remove globlas.css
+
+npm install axios
+index.js - import axios from 'axios';
+get reply from openai
+
+
+Isloading
+
+server.js
+package.json
+
+npm run build
+
+
+
+
+
+
